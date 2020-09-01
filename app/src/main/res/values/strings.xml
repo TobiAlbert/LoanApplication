@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoanApplication</string>
+    <string name="loan_application">Loan Application</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus lectus magna imperdiet commodo. Eu dolor consectetur morbi ullamcorper cursus. Cursus non gravida integer purus neque feugiat justo cras.</string>
+    <string name="calculate_your_loan">Calculate your Loan</string>
+    <string name="next">Next</string>
+</resources>
