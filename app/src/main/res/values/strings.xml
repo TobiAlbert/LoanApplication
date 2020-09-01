@@ -4,4 +4,13 @@
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus lectus magna imperdiet commodo. Eu dolor consectetur morbi ullamcorper cursus. Cursus non gravida integer purus neque feugiat justo cras.</string>
     <string name="calculate_your_loan">Calculate your Loan</string>
     <string name="next">Next</string>
+    <string name="_30_000">30,000</string>
+    <string name="_30_000">30,000</string>
+    <string name="_1_400">1,400</string>
+    <string name="refund">Refund</string>
+    <string name="_2_000">2,000</string>
+    <string name="upfront_payment">Upfront Payment</string>
+    <string name="select_your_duration">Select Your Duration</string>
+    <string name="loan_duration">Loan Duration</string>
+    <string name="payment_plan">Payment Plan</string>
 </resources>
